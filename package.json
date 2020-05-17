@@ -1,0 +1,22 @@
+{
+  "name": "treschalin_react_10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo hello ",
+    "create": "mkdir build",
+    "del": "rm -r build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/treschalin_react_10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/treschalin_react_10/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/treschalin_react_10#readme"
+}
